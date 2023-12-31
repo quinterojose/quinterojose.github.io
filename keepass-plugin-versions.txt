@@ -1,4 +1,4 @@
 :
 KeePassCPEO:1.5
-KeePassDPG:1.2.1
+KeePassDPG:1.3
 :
